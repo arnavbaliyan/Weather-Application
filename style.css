@@ -4,7 +4,7 @@
     box-sizing: border-box;
 } 
 .container{
-  background: linear-gradient(-45deg,blue, lightblue);
+  background: linear-gradient(-45deg,rgb(163, 163, 238), rgb(11, 95, 252));
   background-size: 400% 400%;
   animation: gradient 10s ease infinite;
   height: 100vh;
